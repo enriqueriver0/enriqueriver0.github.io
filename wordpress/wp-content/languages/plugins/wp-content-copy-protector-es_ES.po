@@ -1,0 +1,393 @@
+# Translation of Plugins - WP Content Copy Protection &amp; No Right Click - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - WP Content Copy Protection &amp; No Right Click - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-06-29 11:43:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - WP Content Copy Protection &amp; No Right Click - Stable (latest release)\n"
+
+#: notifications.php:146
+msgid "Hide Forever"
+msgstr "Ocultar siempre"
+
+#: notifications.php:145
+msgid "Will Rate Later"
+msgstr "Lo valoraré más tarde"
+
+#: notifications.php:144
+msgid "I've already left a review"
+msgstr "Ya he dejado una reseña"
+
+#: notifications.php:143
+msgid "Sure! I'd love to!"
+msgstr "¡Claro! ¡Me encantaría!"
+
+#: notifications.php:141
+msgid "We hope you've enjoyed using WP copy Protection :) Would you mind taking a few minutes to write a review on WordPress.org?<br>Just writing simple \"thank you\" will make us happy!"
+msgstr "Esperamos que hayas disfrutado usando WP copy Protection :) ¿Te importaría dedicar unos pocos minutos a escribir una reseña en WordPress.org?<br>¡Simplemente escribe un simple «gracias» y nos harás felices!"
+
+#: notifications.php:140
+msgid "Leave A Review?"
+msgstr "¿Dejas una reseña?"
+
+#: admin-core.php:486
+msgid "Save Settings"
+msgstr "Guardar ajustes"
+
+#: admin-core.php:485
+msgid "This is a preview message (do not forget to save changes)"
+msgstr "Esta es una vista previa del mensaje (no olvides guardar los cambios)"
+
+#: admin-core.php:485
+msgid "Preview alert message"
+msgstr "Previsualizar mensaje de alerta"
+
+#: admin-core.php:484
+msgid "Restore defaults"
+msgstr "Restaurar valores por defecto"
+
+#: admin-core.php:475
+msgid "Ability to set varying levels of protection per page or post."
+msgstr "Posibilidad de configurar niveles variables de protección en cada página o entrada."
+
+#: admin-core.php:474
+msgid "Works on smartphones."
+msgstr "Funciona en teléfonos inteligentes."
+
+#: admin-core.php:473
+msgid "Disables image drag and drop function"
+msgstr "Desactiva la función de arrastrar y soltar imágenes"
+
+#: admin-core.php:472
+msgid "Tested in IE9, IE10, edge, Firefox, Google Chrome, Opera, safari"
+msgstr "Probado en IE9, IE10, Edge, Firefox, Google Chrome, Opera y Safari"
+
+#: admin-core.php:471
+msgid "Compatible with all major browsers"
+msgstr "Compatible con todos los principales navegadores"
+
+#: admin-core.php:470
+msgid "Compatible with all major theme frameworks"
+msgstr "Compatible con todos los principales frameworks de temas"
+
+#: admin-core.php:469
+msgid "Aggressive image protection (it is nearly impossible for expert users to steal your images !!)"
+msgstr "Protección de imágenes agresiva (¡es prácticamente imposible robar tus imágenes, incluso para usuarios expertos!)"
+
+#: admin-core.php:468
+msgid "3 protection layers (JavaScript protection, RightClick protection, CSS protection)"
+msgstr "3 capas de protección (protección por JavaScript, protección frente a clic derecho, protección de CSS)"
+
+#: admin-core.php:467
+msgid "Admin can disable copy protection for admin users."
+msgstr "El administrador puede desactivar la protección frente a copia a los usuarios que sean administradores."
+
+#: admin-core.php:466
+msgid "Admin can exclude Home page Or Single posts from being copy protected "
+msgstr "El administrador puede excluir la página de inicio o entradas individuales de la protección frente a copia"
+
+#: admin-core.php:465
+msgid "Show alert messages, when the user made right click on images, text boxes, links, plain text.. etc"
+msgstr "Muestra mensajes de alerta cuando un usuario hace clic derecho en imágenes, cajas de texto, enlaces, texto plano,... etc."
+
+#: admin-core.php:464
+msgid "Full watermarking"
+msgstr "Marca de agua completa"
+
+#: admin-core.php:463
+msgid "Get full control over Right-click or context menu"
+msgstr "Obtén control total de clics derechos o menús contextuales"
+
+#: admin-core.php:461
+msgid "Premium features:"
+msgstr "Características premium:"
+
+#: admin-core.php:458
+msgid "No one can right-click images on your site if you want"
+msgstr "Si quieres, nadie puede hacer clic derecho en las imágenes de tu sitio"
+
+#: admin-core.php:457
+msgid "Advanced and easy to use control panel."
+msgstr "Panel de control avanzado y fácil de usar."
+
+#: admin-core.php:456
+msgid "Disable the following keys"
+msgstr "Desactiva las siguientes teclas"
+
+#: admin-core.php:455
+msgid "Show alert message, Image Ad, or HTML Ad on saving images or right-click."
+msgstr "Muestra un mensaje de alerta, un aviso de imagen o un aviso en HTML al guardar las imágenes o al hacer un clic derecho."
+
+#: admin-core.php:454
+msgid "No right-click or context menu."
+msgstr "Sin clic derecho ni menú contextual."
+
+#: admin-core.php:453
+msgid "No one can save images from your site."
+msgstr "Nadie puede guardar imágenes de tu sitio."
+
+#: admin-core.php:452
+msgid "Protect your content from selection and copy. this plugin makes protecting your posts extremely simple without yelling at your readers"
+msgstr "Protege tu contenido frente a la selección y copia. Este plugin hace que proteger tus entradas sea extremadamente sencillo, sin molestar a tus lectores"
+
+#: admin-core.php:450
+msgid "Basic features:"
+msgstr "Características básicas:"
+
+#: admin-core.php:434
+msgid "See it now"
+msgstr "Mírala ahora"
+
+#: admin-core.php:430
+msgid "Crazy discount offer is now running for a limited time!! You might love it"
+msgstr "¡Ahora está en marcha una loca oferta de descuento por tiempo limitado! Puede que te guste."
+
+#: admin-core.php:421
+msgid "Protect your static pages by CSS tricks"
+msgstr "Protege tus páginas estáticas con trucos CSS"
+
+#: admin-core.php:416
+msgid "<b>Pages</b> Protection by CSS"
+msgstr "<b>Páginas</b> Protección mediante CSS"
+
+#: admin-core.php:413
+msgid "Protect your single posts by CSS tricks"
+msgstr "Protege tus entradas individuales con trucos CSS"
+
+#: admin-core.php:395
+msgid "<b>Posts</b> Protection by CSS"
+msgstr "<b>Entradas</b> Protección mediante CSS"
+
+#: admin-core.php:392
+msgid "Protect your Homepage by CSS tricks"
+msgstr "Protege tu página de inicio con trucos CSS"
+
+#: admin-core.php:374
+msgid "<b>Home Page</b> Protection by CSS"
+msgstr "<b>Página de inicio</b> Protección mediante CSS"
+
+#: admin-core.php:367
+msgid "In this protection layer your website will be protected by some <u>CSS</u> tricks that will word even if <u>JavaScript</u> is disabled from the browser settings"
+msgstr "En esta capa de protección tu web estará protegida mediante algunos trucos <u>CSS</u> que funcionarán aunque esté desactivado <u>JavaScript</u> en los ajustes del navegador"
+
+#: admin-core.php:366
+msgid "Premium Layer 3"
+msgstr "Capa premium 3"
+
+#: admin-core.php:366
+msgid "Protection by CSS Techniques"
+msgstr "Protección mediante técnicas CSS"
+
+#: admin-core.php:354
+msgid "Preview & Pricing"
+msgstr "Vista previa y precios"
+
+#: admin-core.php:350
+msgid "Remaining premium options preview image "
+msgstr "Imagen de vista previa de las opciones premium restantes"
+
+#: admin-core.php:341
+msgid "Static pages"
+msgstr "Páginas estáticas"
+
+#: admin-core.php:335
+msgid "HomePage"
+msgstr "Página de inicio"
+
+#: admin-core.php:329
+msgid "Posts"
+msgstr "Entradas"
+
+#: admin-core.php:322
+msgid "Disable <u>RightClick</u> on"
+msgstr "Desactivar <u>clic derecho</u> en"
+
+#: admin-core.php:318
+msgid "In this protection layer your visitors will be able to <u>right click</u> on a specific page elements only (such as Links as an example)"
+msgstr "En esta capa de protección tus visitantes podrán hacer <u>clic derecho</u> solo en los elementos de una página específica (como por ejemplo enlaces)"
+
+#: admin-core.php:317
+msgid "Premium Layer 2"
+msgstr "Capa premium 2"
+
+#: admin-core.php:317
+msgid "Copy Protection on RightClick"
+msgstr "Protección frente a copia mediante clic derecho"
+
+#: admin-core.php:299
+msgid "Print preview message"
+msgstr "Imprimir vista previa del mensaje "
+
+#: admin-core.php:288
+msgid "Selection disabled message"
+msgstr "Mensaje de selección desactivado"
+
+#: admin-core.php:285
+msgid "If <u>Yes</u>, The protection functions will be inactive for the admin when he is logged in"
+msgstr "Si es <u>Sí</u> las funciones de protección estarán inactivas para los administradores cuando estén conectados"
+
+#: admin-core.php:283 admin-core.php:419
+msgid "Premium"
+msgstr "Premium"
+
+#: admin-core.php:280
+msgid "Exclude <u>Admin</u> from protection"
+msgstr "Excluir <u>administradores</u> de la protección"
+
+#: admin-core.php:277
+msgid "Show/Hide the plugin icon on the top admin bar"
+msgstr "Mostrar/ocultar el icono del plugin en la barra superior de administración"
+
+#: admin-core.php:267 admin-core.php:271
+msgid "Visible"
+msgstr "Visible"
+
+#: admin-core.php:266 admin-core.php:272
+msgid "Hidden"
+msgstr "Oculto"
+
+#: admin-core.php:259
+msgid "Plugin icon on top admin bar"
+msgstr "Icono del plugin en la barra superior de administración"
+
+#: admin-core.php:256
+msgid "Use Premium Settings tab to customize more options"
+msgstr "Utiliza la pestaña de ajustes premium para personalizar más opciones"
+
+#: admin-core.php:239
+msgid "Static page's protection"
+msgstr "Protección de páginas estáticas"
+
+#: admin-core.php:236
+msgid "Don't copy any thing! even from my homepage"
+msgstr "¡No copies nada! ni siquiera de mi página de inicio"
+
+#: admin-core.php:218
+msgid "Homepage protection by <u>JavaScript</u>"
+msgstr "Protección de página de inicio mediante <u>JavaScript</u>"
+
+#: admin-core.php:215
+msgid "For single posts content"
+msgstr "Para el contenido de entradas individuales"
+
+#: admin-core.php:204 admin-core.php:209 admin-core.php:225 admin-core.php:230
+#: admin-core.php:246 admin-core.php:250 admin-core.php:381 admin-core.php:386
+#: admin-core.php:402 admin-core.php:407
+msgid "Disabled"
+msgstr "Desactivado"
+
+#: admin-core.php:203 admin-core.php:208 admin-core.php:224 admin-core.php:229
+#: admin-core.php:245 admin-core.php:251 admin-core.php:380 admin-core.php:385
+#: admin-core.php:401 admin-core.php:406
+msgid "Enabled"
+msgstr "Activado"
+
+#: admin-core.php:197
+msgid "Posts protection by <u>JavaScript</u>"
+msgstr "Protección de entradas mediante <u>JavaScript</u>"
+
+#: admin-core.php:190
+msgid "This is the basic protection layer that uses <u>JavaScript</u> to protect the posts, home page content from being copied by any other web site author."
+msgstr "Esta es la capa de protección básica que utiliza <u>JavaScript</u> para proteger el contenido de las entradas y la página de inicio frente al copiado por parte de otro autor del sitio."
+
+#: admin-core.php:189
+msgid "Basic Layer"
+msgstr "Capa básica"
+
+#: admin-core.php:189
+msgid "Copy Protection using JavaScript"
+msgstr "Protección frente a copiado usando JavaScript"
+
+#: admin-core.php:183
+msgid "More with pro"
+msgstr "Más con la versión pro"
+
+#: admin-core.php:182
+msgid "Premium Protection by CSS"
+msgstr "Protección premium mediante CSS"
+
+#: admin-core.php:181
+msgid "Premium RightClick Protection"
+msgstr "Protección premium frente a clic derecho"
+
+#: admin-core.php:180
+msgid "Main Settings"
+msgstr "Ajustes principales"
+
+#: admin-core.php:172
+msgid "PRO Version"
+msgstr "Versión PRO"
+
+#: admin-core.php:141
+msgid "Start it!"
+msgstr "¡Empieza!"
+
+#: admin-core.php:139
+msgid "discount codes"
+msgstr "códigos de descuento"
+
+#: admin-core.php:139
+msgid "Begin your adventure to improve your WordPress website, Also you will win a "
+msgstr "Empieza tu aventura de mejorar tu web WordPress. También ganarás un "
+
+#: admin-core.php:132
+msgid "WP Content Protection Plugin Group"
+msgstr "WP Content Protection Plugin Group"
+
+#: preventer-index.php:730
+msgid "Copy Protection & No right click"
+msgstr "Protección de copia y sin clic derecho"
+
+#: preventer-index.php:728
+msgid "Protection"
+msgstr "Protección"
+
+#: admin-core.php:134 preventer-index.php:652
+msgid "Dismiss"
+msgstr "Descartar"
+
+#: preventer-index.php:652
+msgid "Upgrade Now"
+msgstr "Actualizar ahora"
+
+#: preventer-index.php:652
+msgid "You are running WP Content Copy Protection & No Right Click (free). To get more features, you can "
+msgstr "Estás ejecutando WP Content Copy Protection & No Right Click (gratis). Para obtener más características puedes "
+
+#: preventer-index.php:630
+msgid "Go PRO"
+msgstr "Hazte PRO"
+
+#: preventer-index.php:627
+msgid "Settings"
+msgstr "Ajustes"
+
+#. Author URI of the plugin
+#: preventer-index.php
+msgid "http://www.wp-buy.com/"
+msgstr "http://www.wp-buy.com/"
+
+#. Author of the plugin
+#: preventer-index.php
+msgid "wp-buy"
+msgstr "wp-buy"
+
+#. Description of the plugin
+#: preventer-index.php
+msgid "This wp plugin protect the posts content from being copied by any other web site author , you dont want your content to spread without your permission!!"
+msgstr "Este plugin para WP protege el contenido de las entradas para que no lo copie otro autor de la web, ¡no quieres que tu contenido se difunda sin tu permiso!"
+
+#. Plugin URI of the plugin
+#: preventer-index.php
+msgid "http://wordpress.org/plugins/w-p-content-copy-protector/"
+msgstr "https://es.wordpress.org/plugins/w-p-content-copy-protector/"
+
+#. Plugin Name of the plugin
+#: preventer-index.php
+msgid "WP Content Copy Protection & No Right Click"
+msgstr "WP Content Copy Protection & No Right Click"
